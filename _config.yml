@@ -1,0 +1,28 @@
+name: ultra bithorax
+favicon: null
+layout_spectrum: 0.12913649692200124
+typography_spectrum: 0.487493890337646
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.44044125615619123
+  lightness: 0.08138687233440578
+  saturation: 0.3146358036901802
+  rhythmicContrast: 0.6385106674861163
+purpose: []
