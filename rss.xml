@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ultra bithorax]]></title>
+        <description><![CDATA[ultra bithorax]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jun 2016 02:39:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>All microbes communicate with members of their own species and between species. This type of communication, called quorum sensing, allows bacteria to form rich social networks with their neighbors. Bacteria use quorum sensing to keep tabs on the density of members of their species in relation to the density of other species in order to perform fantastically synchronous events that they could never accomplish working in isolation–like the successful invasion of a host. And while pathogen-host interactions are incredibly intricate, beautifully structured, and close to my heart (figuratively) I’ll be focusing on a wonderfully evolved symbiotic relationship between a microbe and a squid: Vibrio fischeri and its life partner, the Hawaiian bobtail squid. </p>]]></description>
+            <link>undefinedall-microbes-communicate-with-members-of-their-own-species-a/index.html</link>
+            <guid isPermaLink="false">60e6cb58-0547-4437-b287-d3dfd09dd7f0</guid>
+            <pubDate>Tue, 28 Jun 2016 02:39:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
